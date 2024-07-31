@@ -1,5 +1,5 @@
 import React from 'react';
-import style from './lista.module.scss';
+import style from './Lista.module.scss';
 
 function Lista() {
   const tarefas = [{
